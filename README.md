@@ -3,10 +3,5 @@
 ## Access Fantasy Hockey Data from Fantasy Pros
 ### This function will take the data from the Fantasy Pros and import it into a manipulatable DataFrame in Python
 
-#### From Fantasy Pros:
-![logo](fromsite.png)
-
-#### To a DataFrame:
-![logo](fromanalysis.png)
 
 
